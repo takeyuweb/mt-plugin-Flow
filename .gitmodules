@@ -1,3 +1,0 @@
-[submodule "mt-static/plugins/Flow/vendor/flowjs"]
-	path = mt-static/plugins/Flow/vendor/flowjs
-	url = https://github.com/flowjs/flow.js.git
